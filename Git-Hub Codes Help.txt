@@ -6,3 +6,6 @@ git remote -v				//M3rfsh bas mohema shaklaha haha
 git add .				//Hay add kol haga fel file
 git commit -m "First commit"		//M3rfsh bas lazmtkteb ay haga fel marks
 git push origin master			//Hottaha alamowaghza fel akher
+
+					// Lama geet a add el file el notepad daa b3den katabt second commit wbada2t ell code 3adyy
+					   add msh men el awel w et7att 3adyy wel denya laziza
